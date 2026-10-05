@@ -28,6 +28,6 @@ With a single tap (or hardware button triggers), the app initiates a series of f
 * **Geolocating:** `geolocator` & `google_maps_flutter`
 * **Communication:** Background SMS integrations & RESTful APIs / Firebase
 
----
+---mm
 mm
 mm
